@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        // "target": "ES3", 기존
+        "target": "es6",
+        "module": "es2015"
+
+    },
+    "include": ["src/**/*"]
+}
